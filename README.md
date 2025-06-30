@@ -50,6 +50,9 @@ Students may have multiple codes. All student names/IDs are anonymized.
 Example: "John Doe" is coded as "AS" and receives SPED services with accommodations for autism, including proximity seating, note copies, breaks, and counseling access.
 
 ## 🎯 Dashboard Components
+
+![1st Period Assessment Dashboard](https://github.com/user-attachments/assets/96ff5aa2-2eee-431c-a3b7-5dee6cb6b61e)
+
 1. KPI: Assessment Average
 * Use: Tracks average performance per test and per student.
 
