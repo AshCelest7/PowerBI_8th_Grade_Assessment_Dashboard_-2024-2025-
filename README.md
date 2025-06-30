@@ -100,6 +100,8 @@ SmartLowestTest = ...
 
 4. Assessment Trend Visual
 Shows class and individual trajectories across the year. John Doe's trend shows steady progress, with a peak at 2nd Blue.
+![students assessment trend](https://github.com/user-attachments/assets/ab7da082-9b99-4390-8a2b-0431552f1e56)
+
 5. Comparison Charts: 7th STAAR vs. 8th Benchmark
 * Visually compare prior STAAR with mid-year benchmark.
 
@@ -111,6 +113,11 @@ DAX for Comparison Chart:
 SlicerAwareBarChartScore =
 VAR SelectedStudent = SELECTEDVALUE('1ST PERIOD'[ID NUMBER])
 ... RETURN SWITCH(...)
+![students 7_8 comparison](https://github.com/user-attachments/assets/8494a15b-e724-40b8-9f5d-37173702a23e)
+
+6. Comparison Chart 8th Grade STAAR Predictive Score VS 8th Grade STAAR Actual Score
+   * Created a predictive model using python. Student actual score was off by one point from the predictive model. 
+![Students prediction score vs actual score](https://github.com/user-attachments/assets/47db75cc-6b47-4f50-9fb9-a3120a0e91b6)
 
 ## 🔄 Progress by Performance Category
 Benchmarks analyzed by category (Did Not Meet, Approaches, Meets, Masters) based on district cutoffs:
@@ -129,7 +136,10 @@ Benchmarks analyzed by category (Did Not Meet, Approaches, Meets, Masters) based
 Custom Table Snippet (DAX):
 DidNotMeetProgressTable = DATATABLE(...)
 
+
 Insight: John Doe met 89% of Did Not Meet, 62% of Approaches, etc.
+![students progress chart](https://github.com/user-attachments/assets/f6e40f72-c9bd-42ef-b0fd-82f5ec3cae5e)
+
 
 ## 📊 Future Goals
 * Add growth deltas (+/-) to predictive vs. actual charts.
