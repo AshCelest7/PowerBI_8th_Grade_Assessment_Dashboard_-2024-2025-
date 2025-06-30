@@ -96,6 +96,7 @@ SmartHighestTest = ...
 DAX Sample for Lowest:
 SmartLowestTest = ...
 
+![Students KPIs](https://github.com/user-attachments/assets/53206c06-1f7c-48d0-a48a-afef81fbd824)
 
 4. Assessment Trend Visual
 Shows class and individual trajectories across the year. John Doe's trend shows steady progress, with a peak at 2nd Blue.
