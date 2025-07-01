@@ -1,4 +1,4 @@
-# PowerBI_8th_Grade_Assessment_Dashboard_-2024-2025-
+# PowerBI 8th Grade Assessment Dashboard
 Class Assessment Dashboard made for educators to analyze class and student data. 
 
 ## 🔢 Project Overview
